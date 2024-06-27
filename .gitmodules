@@ -7,3 +7,9 @@
 [submodule "Deployment/Responsive-blog-jQuery"]
 	path = Deployment/Responsive-blog-jQuery
 	url = https://github.com/kamjohn777/Responsive-blog-jQuery.git
+[submodule "Frontend/overcome-fitness"]
+	path = Frontend/overcome-fitness
+	url = https://github.com/kamjohn777/overcome-fitness-site-proto.git
+[submodule "Fullstack/splash-was-final"]
+	path = Fullstack/splash-was-final
+	url = https://github.com/kamjohn777/splash-was-final.git
