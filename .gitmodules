@@ -1,0 +1,3 @@
+[submodule "Hackathon/Kamazon"]
+	path = Hackathon/Kamazon
+	url = https://github.com/kamjohn777/Kamazon.git
