@@ -4,3 +4,6 @@
 [submodule "Backend/Task-Manager"]
 	path = Backend/Task-Manager
 	url = https://github.com/kamjohn777/Task-manager.git
+[submodule "Deployment/Responsive-blog-jQuery"]
+	path = Deployment/Responsive-blog-jQuery
+	url = https://github.com/kamjohn777/Responsive-blog-jQuery.git
