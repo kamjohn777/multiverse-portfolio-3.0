@@ -1,3 +1,6 @@
 [submodule "Hackathon/Kamazon"]
 	path = Hackathon/Kamazon
 	url = https://github.com/kamjohn777/Kamazon.git
+[submodule "Backend/Task-Manager"]
+	path = Backend/Task-Manager
+	url = https://github.com/kamjohn777/Task-manager.git
